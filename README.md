@@ -37,7 +37,7 @@ Finalizado para fins de prática e aprendizado
 ## Agradecimentos
 Fico feliz por ter chegado até aqui.
 Espero que o código seja útil ou inspirador de alguma forma.
-Agradeço a todos que contribuiram para o meu aprendiado e me inspiraram a explora o mundo do desenvolvimento web.
+Agradeço a todos que contribuiram para o meu aprendizado e me inspiraram a explorar o mundo do desenvolvimento web.
 
 ## Contato
 Se tiver alguma dúvida ou sugestão, sinta-se a vontade para dar seus comentários, e-mail:abo.revelacao@outlook.com
